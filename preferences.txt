@@ -1,0 +1,6 @@
+1)movie: Dogma
+2)serial: The_story_of_american_horror
+3)dish: baked_salmon
+4)season: spring
+5)country: Japan
+
