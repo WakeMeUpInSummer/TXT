@@ -1,0 +1,5 @@
+1)name: Olga
+2)surname: Domogatskaja
+3)pet: 2
+4)future_salary: 1000
+
