@@ -1,1 +1,8 @@
-
+title: impossible to push account button on the main page
+ID: BR20220505
+status: open
+priority: high
+severity: major
+actual result: button cant be pushed
+expected result: button can be pushed
+steps to reproduce: open www.mysite.com, push account button
